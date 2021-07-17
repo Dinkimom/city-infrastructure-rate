@@ -1,0 +1,16 @@
+.root {
+  position: absolute;
+  top: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 8px;
+  border-radius: 5px;
+  z-index: 100;
+
+  display: flex;
+}
+
+.root button {
+  margin-left: 16px;
+}
